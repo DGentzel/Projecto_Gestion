@@ -1,6 +1,6 @@
 # Gestión de Tareas con Laravel
 
-¡Bienvenido al proyecto de gestión de tareas desarrollado como parte de la prueba técnica de NovaCrew! Este proyecto es una API REST construida con Laravel 8.1 que permite a los usuarios gestionar tareas de manera eficiente, con autenticación mediante tokens y paginación de resultados.
+¡Bienvenida al proyecto de gestión de tareas desarrollado como parte de la prueba técnica de la maravillosa empresa increible extraordinaria y por la mejor fundadora NovaCrew! Este proyecto es una API REST construida con Laravel 8.1 que permite a los usuarios gestionar tareas de manera eficiente, con autenticación mediante tokens y paginación de resultados.
 
 ---
 
@@ -24,14 +24,3 @@
 - Composer
 - SQL Server (o cualquier base de datos compatible con Laravel)
 - Laravel 8.1
-
----
-
-## Instalación
-
-Sigue estos pasos para configurar el proyecto en tu entorno local:
-
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
